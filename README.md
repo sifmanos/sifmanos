@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l46Ck4CGc762ion28/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l46Ck4CGc762ion28/giphy.gif" width="300"/>
    <div id="badges">
   <a href="sifmanos.github.io">
     <img src="https://img.shields.io/badge/Personal%20WebPage-00a6ed"/>
