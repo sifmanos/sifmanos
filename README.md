@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**sifmanos/sifmanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <samp><br>
+   Hey there, I'm Manos!
+   <br>
+ My work specializes in Music Information Retrieval, <br> 
+ using Machine Learning to solve challenges in music <br>
+   and digital signal processing.
+   <br>
+   🍋
+   </samp><br>
+<p align="center"><samp> ~
+   <a href="https://www.reddit.com/user/s">reddit</a>
+   ·
+   <a href="https://twitter.com/s">X</a>
+   ·
+   <a href="https://www.linkedin.com/sifmanos/">linkedin</a>
+   ~ </samp><br><br>
+   
+</p>
+</p>
