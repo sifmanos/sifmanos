@@ -1,26 +1,14 @@
-<p align="center">
-   <samp><br>
-   Hey there, I'm Manos!
-   <br>
- My work specializes in Music Information Retrieval, <br> 
- using Machine Learning to solve challenges in music <br>
-   and digital signal processing.
-   <br>
-   🍋
-   </samp><br>
-<p align="center"><samp> ~
-   <a href="https://www.reddit.com/user/s">reddit</a>
-   ·
-   <a href="https://twitter.com/s">X</a>
-   ·
-   <a href="https://www.linkedin.com/sifmanos/">linkedin</a>
-   ~ </samp><br><br>
-   
-</p>
-</p>
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sifmanos&theme=holi&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifmanos&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifmanos&theme=aura_dark&hide_border=false" alt="GitHub Streak" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   <div id="badges">
+  <a href="sifmanos.github.io">
+    <img src="https://img.shields.io/badge/Personal%20WebPage-00a6ed"/>
+  </a>
+   <a href="www.linkedin.com/in/sifmanos">
+    <img src="https://img.shields.io/badge/LinkedIn-fed766"/>
+  </a>
+    <a href="https://www.instagram.com/sifmanos_/">
+    <img src="https://img.shields.io/badge/Instagram-ee4266"/>
+  </a>
+</div>
 </div>
