@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="assets/gif_MS.gif" width="300"/>
+  <img src="assets/gif_MS.gif" width="600"/>
    <div id="badges">
   <a href="sifmanos.github.io">
     <img src="https://img.shields.io/badge/Personal%20WebPage-00a6ed"/>
