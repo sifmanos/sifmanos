@@ -1,17 +1,12 @@
 <div id="header" align="center">
   <picture>
-    <!-- Light Theme GIF -->
-    <source srcset="assets/gif_transparent.gif" media="(prefers-color-scheme: light)">
-    <!-- Dark Theme GIF -->
+    <!-- Light Themes -->
+    <source srcset="assets/gif_MS-transparent.gif" media="(prefers-color-scheme: light)">
+    <!-- Dark Themes -->
     <source srcset="assets/gif_MS.gif" media="(prefers-color-scheme: dark)">
-    <!-- Default GIF (fallback if no theme is detected) -->
-    <img src="assets/gif_light.gif" alt="Header GIF" width="300">
+    <!-- Default GIF (Fallback) -->
+    <img src="assets/gif_MS.gif" alt="Header GIF" style="width: 600px;">
   </picture>
-</div>
-
-
-<div id="header" align="center">
-  <img src="assets/gif_MS.gif" width="600"/>
    <div id="badges">
   <a href="sifmanos.github.io">
     <img src="https://img.shields.io/badge/Personal%20WebPage-5d7af3" width="150" height="30"/>
