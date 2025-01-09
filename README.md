@@ -1,4 +1,16 @@
 <div id="header" align="center">
+  <picture>
+    <!-- Light Theme GIF -->
+    <source srcset="assets/gif_transparent.gif" media="(prefers-color-scheme: light)">
+    <!-- Dark Theme GIF -->
+    <source srcset="assets/gif_MS.gif" media="(prefers-color-scheme: dark)">
+    <!-- Default GIF (fallback if no theme is detected) -->
+    <img src="assets/gif_light.gif" alt="Header GIF" width="300">
+  </picture>
+</div>
+
+
+<div id="header" align="center">
   <img src="assets/gif_MS.gif" width="600"/>
    <div id="badges">
   <a href="sifmanos.github.io">
