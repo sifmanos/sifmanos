@@ -3,9 +3,9 @@
     <!-- Light Themes -->
     <source srcset="assets/gif_light_vhs.gif" media="(prefers-color-scheme: light)">
     <!-- Dark Themes -->
-    <source srcset="assets/gif_light_vhs.gif" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/gif_dark_vhs.gif" media="(prefers-color-scheme: dark)">
     <!-- Default GIF (Fallback) -->
-    <img src="assets/gif_light_vhs.gif" alt="Header GIF" style="width: 600px;">
+    <img src="assets/gif_dark_vhs.gif" alt="Header GIF" style="width: 600px;">
   </picture>
    <div id="badges">
   <a href="sifmanos.github.io">
