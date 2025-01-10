@@ -14,10 +14,10 @@
   <a href="https://sifmanos.github.io/" target="_blank">
     <img src="assets/gif_website.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
   </a>
-  <a href="https://www.linkedin.com/in/sifmanos/" target="_blank">
+  <a href="mailto:sifakis.em@gmail.com" target="_blank">
     <img src="assets/gif_mails.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
   </a>
-  <a href="https://www.linkedin.com/sifmanos/" target="_blank">
+  <a href="https://www.linkedin.com/in/sifmanos/" target="_blank">
     <img src="assets/gif_linkedin.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
   </a>
   <a href="https://www.behance.net/manossifakis1" target="_blank">
