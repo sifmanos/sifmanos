@@ -8,22 +8,23 @@
     <img src="assets/gif_dark_vhs.gif" alt="Header GIF" style="width: 600px;">
   </picture>
 
-   <div id="custom-buttons" align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+  <div id="custom-buttons" align="center" style="display: flex; justify-content: center; gap: 0px;">
   <!-- GitHub Button as GIF -->
   <a href="https://github.com/sifmanos" target="_blank">
-    <img src="assets/gif_website.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
+    <img src="assets/gif_website.gif" width="100" alt="GitHub Button" style="border-radius: 15px;">
   </a>
   <a href="https://github.com/sifmanos" target="_blank">
-    <img src="assets/gif_mails.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
+    <img src="assets/gif_mails.gif" width="100" alt="GitHub Button" style="border-radius: 15px;">
   </a>
   <a href="https://github.com/sifmanos" target="_blank">
-    <img src="assets/gif_linkedin.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
+    <img src="assets/gif_linkedin.gif" width="100" alt="GitHub Button" style="border-radius: 15px;">
   </a>
   <a href="https://github.com/sifmanos" target="_blank">
-    <img src="assets/gif_behance.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
+    <img src="assets/gif_behance.gif" width="100" alt="GitHub Button" style="border-radius: 15px;">
   </a>
   <a href="https://github.com/sifmanos" target="_blank">
-    <img src="assets/gif_instagram.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
+    <img src="assets/gif_instagram.gif" width="100" alt="GitHub Button" style="border-radius: 15px;">
   </a>
 </div>
 
