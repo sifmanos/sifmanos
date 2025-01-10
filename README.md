@@ -18,7 +18,7 @@
       <!-- Dark Theme -->
       <source srcset="assets/gif_website.gif" media="(prefers-color-scheme: dark)">
       <!-- Default (Fallback) -->
-      <img src="assets/gif_website.gif" width="40" alt="Personal_Website" style="border-radius: 8px;">
+      <img src="assets/gif_website.gif" width="45" alt="Personal_Website" style="border-radius: 8px;">
     </picture>
   </a>
   <a href="mailto:sifakis.em@gmail.com" target="_blank" title="Mail">
@@ -28,7 +28,7 @@
       <!-- Dark Theme -->
       <source srcset="assets/gif_mails.gif" media="(prefers-color-scheme: dark)">
       <!-- Default (Fallback) -->
-      <img src="assets/gif_mails.gif" width="40" alt="Mail" style="border-radius: 8px;">
+      <img src="assets/gif_mails.gif" width="45" alt="Mail" style="border-radius: 8px;">
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/sifmanos/" target="_blank" title="LinkedIn_Profile">
@@ -38,7 +38,7 @@
       <!-- Dark Theme -->
       <source srcset="assets/gif_linkedin.gif" media="(prefers-color-scheme: dark)">
       <!-- Default (Fallback) -->
-      <img src="assets/gif_linkedin.gif" width="40" alt="LinkedIn_Profile" style="border-radius: 8px;">
+      <img src="assets/gif_linkedin.gif" width="45" alt="LinkedIn_Profile" style="border-radius: 8px;">
     </picture>
   </a>
   <a href="https://www.behance.net/manossifakis1" target="_blank" title="Behance_Profile">
@@ -48,7 +48,7 @@
       <!-- Dark Theme -->
       <source srcset="assets/gif_behance.gif" media="(prefers-color-scheme: dark)">
       <!-- Default (Fallback) -->
-      <img src="assets/gif_behance.gif" width="40" alt="Behance_Profile" style="border-radius: 8px;">
+      <img src="assets/gif_behance.gif" width="45" alt="Behance_Profile" style="border-radius: 8px;">
     </picture>
   </a>
   <a href="https://www.instagram.com/sifmanos_/" target="_blank" title="Instagram_Profile">
@@ -58,7 +58,7 @@
       <!-- Dark Theme -->
       <source srcset="assets/gif_instagram.gif" media="(prefers-color-scheme: dark)">
       <!-- Default (Fallback) -->
-      <img src="assets/gif_instagram.gif" width="40" alt="Instagram_Profile" style="border-radius: 8px;">
+      <img src="assets/gif_instagram.gif" width="45" alt="Instagram_Profile" style="border-radius: 8px;">
     </picture>
   </a>
 </div>
