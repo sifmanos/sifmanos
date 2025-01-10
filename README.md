@@ -9,7 +9,7 @@
   </picture>
 
 
-  <div id="custom-buttons" align="center" style="display: flex; justify-content: center; gap: 20px;"
+  <div id="custom-buttons" align="center" style="display: flex; justify-content: center; gap: 2px;"
   <!-- GitHub Button as GIF -->
   <a href="https://sifmanos.github.io/" target="_blank" title="Personal_Website">
     <img src="assets/gif_website.gif" width="50" alt="Personal_Website" style="border-radius: 8px;">
