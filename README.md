@@ -9,12 +9,12 @@
   </picture>
 
 
-  <div id="custom-buttons" align="center" style="display: flex; justify-content: center; gap: 0px;">
+  <div id="custom-buttons" align="center" style="display: flex; justify-content: center; gap: 20px;"
   <!-- GitHub Button as GIF -->
   <a href="https://sifmanos.github.io/" target="_blank">
     <img src="assets/gif_website.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
   </a>
-  <a href="sifakis.em@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/sifmanos/" target="_blank">
     <img src="assets/gif_mails.gif" width="100" alt="GitHub Button" style="border-radius: 8px;">
   </a>
   <a href="https://www.linkedin.com/sifmanos/" target="_blank">
