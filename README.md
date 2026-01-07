@@ -13,7 +13,7 @@
      style="display: flex; justify-content: center; gap: 0px; padding: 0; margin: 0;">
 
   <!-- CV -->
-  <a href="assets/SIFAKIS_CV.pdf" target="_blank" title="Open CV (PDF)">
+  <a href="assets/SIFAKIS_CV.pdf" target="_blank" rel="noopener noreferrer" title="Open CV (PDF)">
     <picture>
       <source srcset="assets/gif_cv2.gif" media="(prefers-color-scheme: light)">
       <source srcset="assets/gif_cv.gif" media="(prefers-color-scheme: dark)">
